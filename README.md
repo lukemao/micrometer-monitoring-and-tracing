@@ -4,7 +4,7 @@ This repository uses simple examples to illustrate how to build a microservice m
 
 I use two example applications to demonstrate this solution. I use them to demo instrumentation provided by Spring Actuator(Prometheus) and Spring Sleuth(Zipkin)
 
-Note that the Demo project is borrowes from AmigoCode.
+Note that the Demo project is borrowes from [AmigoCode](https://amigoscode.com/courses/enrolled/295939).
 
 I have provided config yml files for configuring Prometheus and its Alert Manager.
 
